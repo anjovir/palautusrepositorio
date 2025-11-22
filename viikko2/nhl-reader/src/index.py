@@ -18,3 +18,6 @@ def main():
 
     for player in players:
         print(player)
+
+
+main()
